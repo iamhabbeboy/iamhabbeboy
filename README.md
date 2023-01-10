@@ -13,3 +13,4 @@
 
 ![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhabbeboy&count_private=true)
 
+[![Abiodun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamhabbeboy)](https://github.com/anuraghazra/github-readme-stats)
