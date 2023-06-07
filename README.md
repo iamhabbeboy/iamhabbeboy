@@ -2,14 +2,20 @@
 
 - A child of God
 - A continuous learner
-- And a team player
+- Technical writer
 
 ## Technology Stack
 
 - Programming Language: Golang and PHP
 - Database: MySQL, PostgreSQL, MongoDB
 - Messaging: Kafka and Redis
-- Infrasture: Docker and Kubernetes
+- OS: Linux, MacOSX
+- Infastructure: Docker and Kubernetes, GCP, AWS
+
+## Blog
+- ![Logrocket](https://blog.logrocket.com/author/abiodunsolomon/)
+
+- ![DevTo](https://dev.to/iamhabbeboy)
 
 ![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhabbeboy&count_private=true)
 
