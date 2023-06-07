@@ -13,9 +13,11 @@
 - Infastructure: Docker and Kubernetes, GCP, AWS
 
 ## Blog
-- ![Logrocket](https://blog.logrocket.com/author/abiodunsolomon/)
+- [Logrocket](https://blog.logrocket.com/author/abiodunsolomon/)
 
-- ![DevTo](https://dev.to/iamhabbeboy)
+- [DevTo](https://dev.to/iamhabbeboy)
+
+
 
 ![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhabbeboy&count_private=true)
 
