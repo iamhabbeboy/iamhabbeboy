@@ -6,7 +6,8 @@
 
 ## Technology Stack
 
-- Programming Language: Golang and PHP
+- Frontend: React/Typescript, Vue, Svelte
+- Programming Language: Golang, PHP and JS
 - Database: MySQL, PostgreSQL, MongoDB
 - Messaging: Kafka and Redis
 - OS: Linux, MacOSX
