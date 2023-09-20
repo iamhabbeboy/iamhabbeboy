@@ -19,8 +19,3 @@
 
 - [DevTo](https://dev.to/iamhabbeboy)
 
-
-
-![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhabbeboy&count_private=true)
-
-[![wakatime](https://wakatime.com/badge/user/d5da7c45-9fb8-4bcc-bf8c-994401269702.svg)](https://wakatime.com/@d5da7c45-9fb8-4bcc-bf8c-994401269702)
