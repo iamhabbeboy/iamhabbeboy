@@ -1,6 +1,5 @@
 ## Abiodun Azeez ✌️
 
-- A child of God
 - Fullstack Developer (Backend Heavy)
 - A continuous learner
 - Technical writer
