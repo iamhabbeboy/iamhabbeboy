@@ -9,7 +9,7 @@
 - Frontend: React/Typescript, Vue, Svelte
 - Programming Language: Golang, PHP and JS
 - Database: MySQL, PostgreSQL, MongoDB
-- Messaging: Kafka and Redis
+- Messaging: Google PubSub, Kafka and Redis
 - OS: Linux, MacOSX
 - Infastructure: Docker and Kubernetes, GCP, AWS
 
